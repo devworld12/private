@@ -1,0 +1,79 @@
+﻿Privacy Policy
+Last updated: February 2, 2016
+
+Welcome to Chat Talk Play!
+Chat Talk Play makes communication easier between you and the people you care about. Chat Talk Play messaging, and chat make it fast and easy to share experiences with your family and friends, wherever they are. 
+Chat Talk Play takes your privacy seriously, and we are committed to maintaining the privacy of the personal information that you provide to us. By using Chat Talk Play you acknowledge that the terms and conditions in this Privacy Policy will apply to you, as well as to any information that you give us. Please take the time to read through this Privacy Policy to get acquainted with our practices. 
+We sometimes use capitalized terms in this Privacy Policy; if they’re not defined here, they’re defined in our Terms of Service. 
+1. Information We Collect, and How We Use It.
+We collect different types of information through the Service, including: information that you provide us directly; information about you that we automatically collect from log data, IP addresses, and aggregated user data; cookies; information that you give us about your friends; and your chat histories. We may use this information in different ways. 
+A. Information that you provide us directly
+What is it?
+•	Information you give us when you register an account with the Service (this might include your first and last name, username, phone number, email address, password, date of birth/age, and other personal information);
+•	Information that you post on your Chat Talk Play user profile (this might include profile pictures, location, bio, and other information);
+•	All other content that you post/share on any part of the Service (this might include photos, videos, and any other content that you post, or associate with your account);
+•	Information you give us during any communications you have with us (this might include information you give us in emails you send us, chats you have with us, anything you send us in the mail, and any other information you might send us);
+•	Interactions that you have with other users or content on the Service; and
+•	When you give us authorization, contact information of your friends from your mobile or tablet devices to connect your contacts and address book information with your Chat Talk Play account.
+How do we use it?
+•	To enable you to access and use the Service;
+•	To list your profile in the Chat Talk Play directory of users so that other Chat Talk Play users can find you. Please note the information you list about yourself in your profile will be viewable to other Chat Talk Play users;
+•	To enforce our Terms of Service;
+•	To respond to your comments and questions;
+•	To customize your experience, to test and introduce new features and products, and to improve and monitor the effectiveness of our Service;
+•	To carry out contests, surveys, evaluations, and other events or activities that you choose to participate in;
+•	For any other purposes that we specifically communicate to you when we collect that information;
+•	To communicate with you regarding your use of the Service, and to advise you of changes to the Service;
+•	To find and connect you with your friends and contacts who are Chat Talk Play users and to find and invite your contacts to connect with you on Chat Talk Play; and
+•	To use your email address or other contact information to send you articles, news, updates, newsletters, marketing materials, or any other information related to the Service. You can opt out from receiving certain notifications by following the instructions in each email or communication from Chat Talk Play to “unsubscribe.” 
+Other things you should know:
+•	We may remove, at our sole discretion, any information that you provide when you register for or use the Service (such as usernames, profile pictures, names, etc.), if we believe it is inappropriate or violates any of the policies posted on our Policies page including, but not limited to, our Terms of Service.
+B. Information that we automatically collect:
+What is it?
+•	We automatically collect information about your computer, mobile device, tablet, and other devices when you use our Service. Among other things, we collect session data, IP addresses, web browser software information, and mobile device identifiers such as your device’s UDID.
+•	We may also collect and/or aggregate information about your online activities, including but not limited to, content you view, demographic patterns, elements of the Service that you use, and pages you visit.
+How do we use it?
+•	We may analyze, evaluate, and/or aggregate this information to help us understand your interests and the interests of our other users, to analyze trends, to optimize your user experience and improve the Service.
+Other things you should know:
+•	We may share aggregated information about the Service and our users, without seeking additional consent, with third parties (including, without limitation, advertisers, media, and actual or potential partners or investors) for informational, marketing, and/or promotional purposes. If we do share that information, we will only share it on an aggregated basis and in a manner that does not reveal any personally identifiable information about any individual user.
+C. Cookies and other technologies
+What are they?
+•	“Cookies” and similar technologies, such as web beacons and locally stored objects, are small data files that we transfer to your computer that collect information such as the pages visited, the date and the time of a visit and other information about your use of the Services. Cookies in and of themselves don’t personally identify you, although they do identify your computer, your accounts, your browser, and your session.
+How do we use them?
+•	To optimize your experience of the Service, such as allowing you to log in to the Service on your computer without re-entering your password each time you visit the Service;
+•	To deliver faster and more consistent Service;
+•	To help us better understand how you interact with the Service; and
+•	To measure the effectiveness of the Service, its features, offerings, advertisements, and other communications.
+Other things you should know:
+•	Third party advertisers on the Service can place or read cookies on your browser. You can change your browser’s options to stop accepting cookies, or to prompt you before you accept a cookie on a website that you visit; however, you should know that if you don’t accept cookies, you might not be able to use all the features of our Service.
+F. Your Chat History
+What is it?
+•	We will collect, save and store all information contained in your Chat Talk Play chat history. You can permanently delete your Chat Talk Play chat history at anytime.
+How do we use it?
+•	To allow you to access and search your chat history for your own purposes. 
+•	If you are a Business User or if you communicate with a Business User, we may, review, scan, or analyze any communications via the Services involving a Business User for fraud prevention, risk assessment, and customer support purposes. We will not review, scan, or analyze your communications for sending third party marketing messages to you. We will also not sell these reviews or analyses of communications to third parties. We will also use automated methods to carry out these reviews or analyses where reasonably possible. However, from time to time we may have to manually review some communications.
+•	To collect aggregated data from your chat history. We use the data to build language models which help us improve the Service. We will only collect this data on an aggregated basis, and in a manner which does not reveal any personally identifiable information about any individual user. We will use this data to help us understand our users’ interests, analyze trends, and customize the user experience.
+2. Sharing Your Information.
+In addition to using your information for the purposes described above, we may share your information with parties other than Chat Talk Play or its users (the “Third Parties”). In some cases we may request your permission before we share that information, but we reserve the right to share your information with Third Parties without prior notification or without soliciting additional permission: We discuss below situations where we may share your information without requesting your further permission: 
+•	We share certain information about you (including information which could be used to personally identify you) with the companies we engage to facilitate our Service, perform Service-related functions, and/or provide the Service on our behalf, such as Internet Service Providers and hosting service providers. We require these companies to maintain your information in confidence, and they are prohibited from using your information in any way other than performing services for or on behalf of Chat Talk Play. 
+•	We may disclose your information (including information which could be used to personally identify you) when we have a good faith belief that disclosure is necessary: (i) to respond to subpoenas, court orders, or other compulsory legal process; (ii) to protect our property rights and investigate and defend against legal claims (iii) to enforce or apply our Privacy Policy, our Terms of Service or our other policies or agreements; (iv) when we believe disclosure is necessary to protect others from death or serious bodily injury; and (v) as otherwise required by law.
+•	Transfer your information in the event that Chat Talk Play is involved in a merger, acquisition, divestiture, consolidation, reorganization, asset sale, or bankruptcy.
+3. Controlling Your Information.
+A. Posting in Chat Groups
+•	When you post or make content available in Chat Groups, that content will be visible to everyone who is a member of that Chat Group.
+B. Communicating with Business Users
+•	When you communicate with or make content available to a Business User that content is provided directly to the Business User and is subject to the Business User’s privacy or security practices and policies.
+C. Accessing and Changing your Account Information; Deleting your Account
+•	You can edit, update, or delete your account at any time.
+•	If you delete your account, you won’t be able to sign in, use the Service, or access any of your information. If you delete your account, we may retain certain information associated with your account, for analytical purposes and recordkeeping. If you delete your account with us, please be aware that we may retain any content you have previously posted on the Service, including, without limitation, any other data or posted content. 
+D. Opting out of Receiving Communications
+•	You can opt out of receiving communications from us by clicking the “unsubscribe” link (or similarly labeled link) at the bottom of a particular communication. Note that you won’t be able to opt out of service-related communications like service announcements, administrative notices, and the like.
+4. Security
+Your account, registration information, and password are protected so that only you (or any third parties that you allow to access your login credentials) can access your account. All personally identifiable information that we collect about you is stored in limited-access servers. The Service has technical, administrative, and physical security measures in place to protect against the loss, misuse and alteration of the information which is under our control. While we are committed to implementing reasonable and appropriate safeguards to protect your information against foreseeable risks, no computer system or information can ever be fully protected against any possible risk, and we cannot guarantee that unauthorized third parties will not be able to circumvent those safeguards, or access and/or use your personal information for improper purposes. 
+5. International Transfer
+Chat Talk Play is a U.S. company and stores its data in the United States. This data is subject to U.S. laws. Thus, your information may be transferred to — and maintained on — computers located outside of your state, province, country, or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, Chat Talk Play transfers that information to the United States and processes it there. By using the Service, you understand and consent that your information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy. 
+6. Changes to our Privacy Policy
+We may modify our Privacy Policy from time to time. When we make changes, we will notify you by making the revised version available on this webpage, and will indicate at the top the date of the latest revision. You should check this Privacy Policy on a regular basis, since revised versions will be binding on you. Any such modifications will be effective when we post the updated Privacy Policy. You understand and agree that your continued access to our Service after any posted modification to the Privacy Policy indicates your acceptance of those modifications.
+7. Contact Us
+If you have any questions about this Privacy Policy, please contact us online at 
+
